@@ -26,6 +26,6 @@ https://serverless.com/framework/docs/providers/aws/guide/quick-start/
  - Chamando a função :
     - serverless invoke --function hello;
     - serverless invoke local --function hello;
- - Subinfo todos as funções :
+ - Levantando todas as funções :
    - serverless offline start;
   
