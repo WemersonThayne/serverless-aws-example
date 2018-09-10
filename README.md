@@ -1,4 +1,4 @@
-# serverless-aws-example
+# Serverless AWS Exemplo
 Projeto Hello World do uso do serverless framework 
 
 #Link do framework Quick-Start no AWS 
@@ -22,7 +22,7 @@ https://serverless.com/framework/docs/providers/aws/guide/quick-start/
  - Fazendo deploy local com plugin:
     - serverless offline start;
     
- # Executando o Projeto
+ # Executando o Projeto:
  - Chamando a função :
     - serverless invoke --function hello;
     - serverless invoke local --function hello;
